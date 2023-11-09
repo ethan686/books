@@ -1,2 +1,2 @@
 # books
-notes for books
+阅读一些技术书籍时的随手记录
